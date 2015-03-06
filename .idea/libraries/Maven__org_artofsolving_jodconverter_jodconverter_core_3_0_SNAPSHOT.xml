@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.artofsolving.jodconverter:jodconverter-core:3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/artofsolving/jodconverter/jodconverter-core/3.0-SNAPSHOT/jodconverter-core-3.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/artofsolving/jodconverter/jodconverter-core/3.0-SNAPSHOT/jodconverter-core-3.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/artofsolving/jodconverter/jodconverter-core/3.0-SNAPSHOT/jodconverter-core-3.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
